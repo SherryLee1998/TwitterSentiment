@@ -8,4 +8,4 @@ The UI is like:
 
 ![截屏2021-06-08 下午6 43 48](https://user-images.githubusercontent.com/76830377/121271554-94f39c00-c889-11eb-91c5-4926e2e27bc3.png)
 
-🔺How to using it: User enter the company name, and click predict. The emoji(🥰😘😃😐😡👺) will indicate the sentiment from the most positive to the most negative.
+💬How to using it: User enter the company name, and click predict. The emoji(🥰😘😃😐😡👺) will indicate the sentiment from the most positive to the most negative.
